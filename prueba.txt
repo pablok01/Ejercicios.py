@@ -1,0 +1,7 @@
+suma=2+1
+resta=2-11.2
+resta=resta/2
+resta <= suma
+resta >= suma
+resta !> suma
+"hola que tal soy una cadena de caracteres"
