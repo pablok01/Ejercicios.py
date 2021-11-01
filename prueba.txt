@@ -5,3 +5,4 @@ resta <= suma
 resta >= suma
 resta !> suma
 "hola que tal soy una cadena de caracteres"
+"PEDRO PABLO KINL CHI"
